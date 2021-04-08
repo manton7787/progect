@@ -17,6 +17,8 @@ policy settings in the Group Policy Object Editor.
 
 %prep
 
+%install
+mkdir -p %buildroot
 
 %files
 
